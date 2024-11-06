@@ -69,6 +69,8 @@ public class Main {
         terrestreAble.desplazar();
 
     }
+
+    //metodos estaticos
     public static void nadando(NadarAble nadarAble) {
         nadarAble.nadar();
     }
